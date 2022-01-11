@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\Company\Company\bin\Debug\Company.exe.config
+C:\Users\admin\source\repos\Company\Company\bin\Debug\Company.exe
+C:\Users\admin\source\repos\Company\Company\bin\Debug\Company.pdb
+C:\Users\admin\source\repos\Company\Company\obj\Debug\Company.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Company\Company\obj\Debug\Company.Properties.Resources.resources
+C:\Users\admin\source\repos\Company\Company\obj\Debug\Company.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Company\Company\obj\Debug\Company.exe
+C:\Users\admin\source\repos\Company\Company\obj\Debug\Company.pdb
